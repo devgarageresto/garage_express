@@ -11,11 +11,12 @@ const app = express();
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use(
-  "/site",
+  "/",
   createProxyMiddleware({
     target: "https://garageburger.ee",
     changeOrigin: true,
     ws: true,
+    selfHandleResponse: false,
     onProxyRes(proxyRes) {
       delete proxyRes.headers["x-frame-options"];
       delete proxyRes.headers["content-security-policy"];
@@ -25,5 +26,5 @@ app.use(
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log("🚀 Server running on port", PORT);
+  console.log("🚀 Proxy running on port", PORT);
 });
