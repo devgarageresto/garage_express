@@ -16,7 +16,14 @@ app.use(
     target: "https://garageburger.ee",
     changeOrigin: true,
     ws: true,
-    selfHandleResponse: false,
+
+    onProxyReq(proxyReq) {
+      // 🔥 КЛЮЧЕВОЙ МОМЕНТ
+      proxyReq.setHeader("host", "garageburger.ee");
+      proxyReq.setHeader("origin", "https://garageburger.ee");
+      proxyReq.setHeader("referer", "https://garageburger.ee/");
+    },
+
     onProxyRes(proxyRes) {
       delete proxyRes.headers["x-frame-options"];
       delete proxyRes.headers["content-security-policy"];
@@ -26,5 +33,5 @@ app.use(
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log("🚀 Proxy running on port", PORT);
+  console.log("🚀 Proxy running with HOST spoofing on port", PORT);
 });
