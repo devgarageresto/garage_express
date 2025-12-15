@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap');
+
+:root {
+    --orange: #FF9D00;
+    --bg: #000;
+    --card-bg: #111;
+    --header-bg: #1a1a1a;
+    --text-main: #ffffff;
+    --text-muted: #888;
+    --border-color: #222;
+}
+
+* {
+    overflow-x: clip;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text-main);
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    line-height: 1.4;
+}
+
+header {
+    background: var(--header-bg);
+    padding: 25px 20px;
+    text-align: center;
+    border-bottom: 2px solid var(--orange);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 2.2rem;
+    font-weight: 900;
+    letter-spacing: -0.5px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+#app {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.section-title {
+    color: var(--orange);
+    font-weight: 900;
+    font-size: 26px;
+    text-transform: uppercase;
+    padding: 35px 15px 10px;
+    margin-bottom: 5px;
+}
+
+.section-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 15px;
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.img-container {
+    width: 100%;
+    height: 220px;
+    background: #1a1a1a;
+    overflow: hidden;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.card-body {
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 8px;
+}
+
+.item-name {
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.2;
+}
+
+.item-price {
+    color: var(--orange);
+    font-weight: 900;
+    font-size: 1.2rem;
+    white-space: nowrap;
+}
+
+.item-desc {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    font-weight: 400;
+    margin: 0 0 15px 0;
+}
+
+.multi-price {
+    margin-top: auto;
+    padding-top: 12px;
+    border-top: 1px dashed #333;
+}
+
+.price-line {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    font-size: 1rem;
+}
+
+.price-label {
+    color: var(--text-muted);
+}
+
+.price-value {
+    color: var(--orange);
+    font-weight: 700;
+}
+
+.combo-badge {
+    background: var(--orange);
+    color: #000;
+    padding: 8px;
+    border-radius: 8px;
+    margin-top: 15px;
+    font-size: 0.85rem;
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+@media (max-width: 480px) {
+    .section-grid {
+        grid-template-columns: 1fr;
+        padding: 10px;
+    }
+
+    .section-title {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .logo {
+        font-size: 1.8rem;
+    }
+
+    .card {
+        margin-bottom: 10px;
+    }
+}

@@ -1,0 +1,515 @@
+{
+  "Закуски": [
+    {
+      "title": "Картофель фри",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401371-8c19b0c9-4181-4bec-9241-a1c4c72f18fb_600_600.webp",
+      "desc": "Картофель фри с соусом на ваш выбор",
+      "price": "€4.50"
+    },
+    {
+      "title": "Батат",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401369-cf466eec-3a9c-4def-87ec-bfa2a3c0f4a2_600_600.webp",
+      "desc": "Батат (сладкий картофель) с соусом на ваш выбор",
+      "price": "€6.00"
+    },
+    {
+      "title": "Куриные наггетсы",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401372-9c686901-7c75-4eb1-b193-f139542f54f4_600_600.webp",
+      "desc": "6 шт. Куриные наггетсы с соусом на ваш выбор",
+      "price": "€5.00"
+    },
+    {
+      "title": "Луковые кольца",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401376-715923aa-5582-412c-b2fc-70e0b0fe4dc1_600_600.webp",
+      "desc": "6 шт. Луковые кольца с соусом на ваш выбор",
+      "price": "€5.00"
+    },
+    {
+      "title": "Моцарелла палочки",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401374-e8889ff0-d1d9-4691-bd70-a1a2ad3100ba_600_600.webp",
+      "desc": "6 шт. Моцарелла палочки с соусом на ваш выбор",
+      "price": "€6.50"
+    },
+    {
+      "title": "Хрустящие куриные стрипсы",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401373-38a17c81-23d1-4d91-9880-d241cf14d3ce_600_600.webp",
+      "desc": "6 шт. Хрустящие палочки из куриного филе с соусом на ваш выбор",
+      "price": "€7.00"
+    },
+    {
+      "title": "Креветки в панировке",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401375-6a4e14f0-d252-4e59-9c94-355c58c674ec_600_600.webp",
+      "desc": "6 шт. Креветки в панировке с соусом на ваш выбор",
+      "price": "€7.00"
+    },
+    {
+      "title": "Куриные Крылья",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479414029-9e524b06-4870-402a-85d4-28381bda1a33_600_600.webp",
+      "desc": "Куриные Крылья с соусом на ваш выбор",
+      "price": "€7.00"
+    },
+    {
+      "title": "Чеддер Халапеньо",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401370-e72bb36f-8293-43bd-9484-5aedc34d83d1_600_600.webp",
+      "desc": "6 шт. Чеддер Халапеньо с соусом на ваш выбор",
+      "price": "€7.50"
+    }
+  ],
+  "Бургеры": [
+    {
+      "title": "Чизбургер",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401363-206a000b-2de2-428f-9055-fdb57f4193d9_600_600.webp",
+      "desc": "Булочка Бриошь, 100% говяжая котлета, Маринованные огурцы, сыр Чеддер и Моцарелла, кетчуп",
+      "price": "€8.00",
+      "combo": "KOMBO €12.50"
+    },
+    {
+      "title": "Ретро Бургер",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401366-71396186-5c36-4ce6-9c50-771303565d7c_600_600.webp",
+      "desc": "Булочка Бриошь, 100% говяжая котлета, салат «Ретро», сыр Чеддер и Моцарелла, маринованный огурец",
+      "price": "€8.50",
+      "combo": "KOMBO €13.00"
+    },
+    {
+      "title": "Куриный Бургер",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401364-5e418fc8-d71a-47bd-b718-bf9386912489_600_600.webp",
+      "desc": "Булочка Бриошь, Хрустящая Куриная Котлета, Фриллис, Маринованные огурцы и красный лук, помидоры",
+      "price": "€9.00",
+      "combo": "KOMBO €13.50"
+    },
+    {
+      "title": "Гараж Бургер",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401362-582fdccd-a167-4952-b90e-66137797f215_600_600.webp",
+      "desc": "Булочка Бриошь, Котлета из 100% Говядины, Бекон, Сыр Чеддер и Моцарелла, Маринованный Огурец и Красный Лук, Помидоры, Фриллис",
+      "price": "€10.00",
+      "combo": "KOMBO €14.50"
+    },
+    {
+      "title": "Бургер с 4 сырами",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401365-b8320e35-b051-49f7-877d-0088d4106ba3_600_600.webp",
+      "desc": "Булочка Бриошь, Котлета из 100% говядины, Фриллис, Маринованный огурец и красный лук, Сыр Чеддер, Моцарелла, С плесенью, Фета, Помидор",
+      "price": "€10.50",
+      "combo": "KOMBO €15.00"
+    },
+    {
+      "title": "Двойной Гараж Бургер",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401367-4b4bcf5e-49e0-460c-90fc-6ac5460db414_600_600.webp",
+      "desc": "Булочка Бриошь, 2x Котлеты из 100% Говядины, Бекон, Сыр Чеддер и Моцарелла, Маринованный Огурец и Красный Лук, Помидоры, Фриллис",
+      "price": "€12.50",
+      "combo": "KOMBO €17.00"
+    }
+  ],
+  "Poke Bowl": [
+    {
+      "title": "Poke Bowl с курицей",
+      "image": "",
+      "desc": "Курица, рис, морковь, огурец, имбирь, эдамаме, капуста, кукуруза, морские водоросли, манго, соус, кунжут",
+      "price": "€10.90"
+    },
+    {
+      "title": "Poke Bowl с лососем",
+      "image": "",
+      "desc": "Лосось, рис, морковь, огурец, имбирь, эдамаме, капуста, кукуруза, морские водоросли, манго, соус, кунжут",
+      "price": "€11.90"
+    },
+    {
+      "title": "Poke Bowl с креветками",
+      "image": "",
+      "desc": "Креветки, рис, морковь, огурец, имбирь, эдамаме, капуста, кукуруза, морские водоросли, манго, соус, кунжут",
+      "price": "€12.90"
+    }
+  ],
+  "Кебаб": [
+    {
+      "title": "Shaurma",
+      "image": "",
+      "desc": "Тортилья, Куриный кебаб, Фри, Маринованный огурец, Красный лук, Орегано, Чесночный соус",
+      "prices": [
+        {
+          "l": "Маленький",
+          "v": "€7.50"
+        },
+        {
+          "l": "Большой",
+          "v": "€9.00"
+        },
+        {
+          "l": "Малое Комбо",
+          "v": "€12.00"
+        },
+        {
+          "l": "Большое Комбо",
+          "v": "€13.50"
+        }
+      ]
+    },
+    {
+      "title": "Shaurma BBQ",
+      "image": "",
+      "desc": "Тортилья, Куриный кебаб, Фри, Маринованный огурец, Красный лук, Орегано, Чесночный соус, BBQ соус",
+      "prices": [
+        {
+          "l": "Маленький",
+          "v": "€7.50"
+        },
+        {
+          "l": "Большой",
+          "v": "€9.00"
+        },
+        {
+          "l": "Малое Комбо",
+          "v": "€12.00"
+        },
+        {
+          "l": "Большое Комбо",
+          "v": "€13.50"
+        }
+      ]
+    },
+    {
+      "title": "Döner",
+      "image": "",
+      "desc": "Тортилья, Куриный кебаб, Салат, Красный лук, Томат, Маринованный огурец, Орегано, Чесночный соус",
+      "prices": [
+        {
+          "l": "Маленький",
+          "v": "€7.50"
+        },
+        {
+          "l": "Большой",
+          "v": "€9.00"
+        },
+        {
+          "l": "Малое Комбо",
+          "v": "€12.00"
+        },
+        {
+          "l": "Большое Комбо",
+          "v": "€13.50"
+        }
+      ]
+    },
+    {
+      "title": "Dösha",
+      "image": "",
+      "desc": "Тортилья, Куриный кебаб, Фри, Салат, Красный лук, Орегано, Чесночный соус",
+      "prices": [
+        {
+          "l": "Маленький",
+          "v": "€7.50"
+        },
+        {
+          "l": "Большой",
+          "v": "€9.00"
+        },
+        {
+          "l": "Малое Комбо",
+          "v": "€12.00"
+        },
+        {
+          "l": "Большое Комбо",
+          "v": "€13.50"
+        }
+      ]
+    },
+    {
+      "title": "Veggie",
+      "image": "",
+      "desc": "Тортилья, Веган кебаб, Салат, Красный лук, Томат, Маринованный огурец, Орегано, Веган майо",
+      "prices": [
+        {
+          "l": "Маленький",
+          "v": "€8.00"
+        },
+        {
+          "l": "Большой",
+          "v": "€9.50"
+        },
+        {
+          "l": "Малое Комбо",
+          "v": "€12.50"
+        },
+        {
+          "l": "Большое Комбо",
+          "v": "€14.00"
+        }
+      ]
+    },
+    {
+      "title": "Vrap",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401368-a50ecd0b-ead7-437a-b89e-a1a53e2c5ff1_600_600.webp",
+      "desc": "Тортилья, Куриное филе, Салат Айсберг, Томат, Огурец + выбор остроты",
+      "price": "€7.50",
+      "combo": "KOMBO €12.00"
+    },
+    {
+      "title": "Vrap(Обычный/ Острый)",
+      "image": "",
+      "desc": "Тортилья, Куриное филе, Фета, Салат, Томат, Красный лук, Чесночный соус",
+      "price": "€9.00",
+      "combo": "KOMBO €13.50"
+    },
+    {
+      "title": "Kebabi Praad",
+      "image": "",
+      "desc": "Куриный кебаб, Фри, Салат, Орегано, Соус на выбор",
+      "price": "€12.00"
+    }
+  ],
+  "Соусы": [
+    {
+      "title": "Ketšup",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401379-946a4e23-d90f-4241-b4ac-f8c7300ae4bf_600_600.webp",
+      "price": "€1.50"
+    },
+    {
+      "title": "Tšillimajonees",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401379-946a4e23-d90f-4241-b4ac-f8c7300ae4bf_600_600.webp",
+      "price": "€1.50"
+    },
+    {
+      "title": "Majonees",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401379-946a4e23-d90f-4241-b4ac-f8c7300ae4bf_600_600.webp",
+      "price": "€1.50"
+    },
+    {
+      "title": "BBq kaste",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401379-946a4e23-d90f-4241-b4ac-f8c7300ae4bf_600_600.webp",
+      "price": "€1.50"
+    },
+    {
+      "title": "Magus Tšillikaste",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401379-946a4e23-d90f-4241-b4ac-f8c7300ae4bf_600_600.webp",
+      "price": "€1.50"
+    },
+    {
+      "title": "Chipotle",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401379-946a4e23-d90f-4241-b4ac-f8c7300ae4bf_600_600.webp",
+      "price": "€1.50"
+    }
+  ],
+  "Энергетические напитки": [
+    {
+      "title": "Red Bull Original 0.25l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479405655-4662855e-f3bd-4386-9857-56b0771d75e4_600_600.webp",
+      "price": "€3.00"
+    },
+    {
+      "title": "Red Bull Sugar Free 0.25l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479405651-4f482ab9-4bde-4106-aabd-873abd762b79_600_600.webp",
+      "price": "€3.00"
+    },
+    {
+      "title": "Red Bull Сезонный 0.25l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479437723-435d01b0-7b38-4eee-a469-6391d40d90b8_600_600.webp",
+      "price": "€3.00"
+    },
+    {
+      "title": "Red Bull Red 0.25l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479405654-c744fb19-5fcb-4424-9919-38c0c430c646_600_600.webp",
+      "price": "€3.00"
+    },
+    {
+      "title": "Red Bull White 0.25l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479437723-435d01b0-7b38-4eee-a469-6391d40d90b8_600_600.webp",
+      "price": "€3.00"
+    },
+    {
+      "title": "Red Bull Peach 0.25l",
+      "image": "./public/images/peach.avif",
+      "price": "€3.00"
+    },
+    {
+      "title": "Red Bull Yellow 0.25l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479405653-7fc50446-a56a-47ca-98e1-47cf431f4e4b_600_600.webp",
+      "price": "€3.00"
+    },
+    {
+      "title": "Red Bull Blue 0.25l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479405701-3e0d57d2-9164-4285-8116-15b66d15ef70_600_600.webp",
+      "price": "€3.00"
+    }
+  ],
+  "Прохладительные напитки": [
+    {
+      "title": "Coca-Cola",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406148-cd30858a-e70f-45bf-8863-a66828a70e94_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Coca-Cola Zero",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406149-afd0acf5-1e90-427e-8a6a-e0a0ddac32d2_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Fanta",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406150-5c60c13a-cb56-4e30-876c-1734c0bf86ea_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Sprite",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406151-712b6a5e-2f33-4c53-9873-f14142f06840_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Fuze Tea с Лимоном",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406154-0386c1a5-7605-4734-a6bc-ded27690aa1d_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Fuze Tea Персик",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406155-f23c0d79-c221-468b-ad7e-c788da2c5e44_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Вода с газом 0.5l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406152-87cf4964-6a4f-4916-9ea2-a5f14f73ba07_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Вода без газа 0.5l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406153-1aff94a7-1291-4ee3-aa85-ea849b342afc_600_600.webp",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    }
+  ],
+  "Соки": [
+    {
+      "title": "Cappy Мультивитамин 0.33l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406223-acbffd94-e38f-4b14-8839-c0210ad5bcb8_600_600.webp",
+      "price": "€2.50"
+    },
+    {
+      "title": "Cappy Яблочный 0.33l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406213-45f1150e-d763-4d40-9790-379c1260b051_600_600.webp",
+      "price": "€2.50"
+    },
+    {
+      "title": "Cappy Апельсиновый 0.33l",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406218-712f0d61-ee94-49e9-871e-b862cfd48865_600_600.webp",
+      "price": "€2.50"
+    }
+  ],
+  "Горячие напитки": [
+    {
+      "title": "Чай: Самурай, Earl Grey, Зелёный, Фруктовый",
+      "image": "./public/images/tea.jpg",
+      "prices": [
+        {
+          "l": "0.33l",
+          "v": "€2.50"
+        },
+        {
+          "l": "0.5l",
+          "v": "€3.00"
+        }
+      ]
+    },
+    {
+      "title": "Эспрессо",
+      "price": "€2.50",
+      "image": "./public/images/espresso.jpg"
+    },
+    {
+      "title": "Американо",
+      "price": "€2.50",
+      "image": "./public/images/americano.jpg"
+    },
+    {
+      "title": "Crema",
+      "price": "€2.50",
+      "image": "./public/images/crema.jpg"
+    },
+    {
+      "title": "Кофе с молоком",
+      "price": "€3.00",
+      "image": "./public/images/milk.jpg"
+    },
+    {
+      "title": "Капучино",
+      "price": "€3.00",
+      "image": "./public/images/capucino.jpg"
+    },
+    {
+      "title": "Латте",
+      "price": "€3.00",
+      "image": "./public/images/latte.jpg"
+    },
+    {
+      "title": "Какао",
+      "price": "€3.50",
+      "image": "./public/images/kakao.jpg"
+    }
+  ]
+}
