@@ -13,43 +13,43 @@
       "price": "€6.00"
     },
     {
-      "title": "Chicken Nuggets",
+      "title": "Chicken Nuggets (6 pcs.)",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401372-9c686901-7c75-4eb1-b193-f139542f54f4_600_600.webp",
       "desc": "6 pcs. Chicken nuggets with sauce of your choice",
       "price": "€5.00"
     },
     {
-      "title": "Onion Rings",
+      "title": "Onion Rings (6 pcs.)",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401376-715923aa-5582-412c-b2fc-70e0b0fe4dc1_600_600.webp",
       "desc": "6 pcs. Onion rings with sauce of your choice",
       "price": "€5.00"
     },
     {
-      "title": "Mozzarella Sticks",
+      "title": "Mozzarella Sticks (6 pcs.)",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401374-e8889ff0-d1d9-4691-bd70-a1a2ad3100ba_600_600.webp",
       "desc": "6 pcs. Mozzarella sticks with sauce of your choice",
       "price": "€6.50"
     },
     {
-      "title": "Crispy Chicken Strips",
+      "title": "Crispy Chicken Strips (6 pcs.)",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401373-38a17c81-23d1-4d91-9880-d241cf14d3ce_600_600.webp",
       "desc": "6 pcs. Crispy chicken strips with sauce of your choice",
       "price": "€7.00"
     },
     {
-      "title": "Breaded Shrimp",
+      "title": "Breaded Shrimp (6 pcs.)",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401375-6a4e14f0-d252-4e59-9c94-355c58c674ec_600_600.webp",
       "desc": "6 pcs. Breaded shrimp with sauce of your choice",
       "price": "€7.00"
     },
     {
-      "title": "Chicken Wings",
-      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479414029-9e524b06-4870-402a-85d4-28381bda1a33_600_600.webp",
+      "title": "Chicken Wings (6 pcs.)",
+      "image": "./public/image/ch_wings.png",
       "desc": "Chicken wings with sauce of your choice",
       "price": "€7.00"
     },
     {
-      "title": "Cheddar Jalapeño",
+      "title": "Cheddar Jalapeño (6 pcs.)",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401370-e72bb36f-8293-43bd-9484-5aedc34d83d1_600_600.webp",
       "desc": "6 pcs. Cheddar jalapeño poppers with sauce of your choice",
       "price": "€7.50"
@@ -102,19 +102,19 @@
   "Poke Bowl": [
     {
       "title": "Poke Bowl with Chicken",
-      "image": "",
+      "image": "./public/images/pb_kana.jpg",
       "desc": "Chicken, rice, carrot, cucumber, ginger, edamame, cabbage, corn, seaweed, mango, sauce, sesame",
       "price": "€10.90"
     },
     {
       "title": "Poke Bowl with Salmon",
-      "image": "",
+      "image": "./public/images/pb_lohe.jpg",
       "desc": "Salmon, rice, carrot, cucumber, ginger, edamame, cabbage, corn, seaweed, mango, sauce, sesame",
       "price": "€11.90"
     },
     {
       "title": "Poke Bowl with Shrimp",
-      "image": "",
+      "image": "./public/images/pb_krevett.jpg",
       "desc": "Shrimp, rice, carrot, cucumber, ginger, edamame, cabbage, corn, seaweed, mango, sauce, sesame",
       "price": "€12.90"
     }
@@ -122,57 +122,57 @@
   "Kebab": [
     {
       "title": "Shaurma",
-      "image": "",
+      "image": "./public/images/shaurma.jpg",
       "desc": "Tortilla, chicken kebab, fries, pickled cucumber, red onion, oregano, garlic sauce",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
-        { "l": "Small Combo", "v": "€12.00" },
-        { "l": "Large Combo", "v": "€13.50" }
+        { "l": "Small Combo", "v": "€13.50" },
+        { "l": "Large Combo", "v": "€15.00" }
       ]
     },
     {
       "title": "Shaurma BBQ",
-      "image": "",
+      "image": "./public/images/shaurma_bbq.jpg",
       "desc": "Tortilla, chicken kebab, fries, pickled cucumber, red onion, oregano, garlic sauce, BBQ sauce",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
-        { "l": "Small Combo", "v": "€12.00" },
-        { "l": "Large Combo", "v": "€13.50" }
+        { "l": "Small Combo", "v": "€13.50" },
+        { "l": "Large Combo", "v": "€15.00" }
       ]
     },
     {
       "title": "Döner",
-      "image": "",
+      "image": "./public/images/doner.jpg",
       "desc": "Tortilla, chicken kebab, salad, red onion, tomato, pickled cucumber, oregano, garlic sauce",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
-        { "l": "Small Combo", "v": "€12.00" },
-        { "l": "Large Combo", "v": "€13.50" }
+        { "l": "Small Combo", "v": "€13.50" },
+        { "l": "Large Combo", "v": "€15.00" }
       ]
     },
     {
       "title": "Dösha",
-      "image": "",
+      "image": "./public/images/dosha.jpg",
       "desc": "Tortilla, chicken kebab, fries, salad, red onion, oregano, garlic sauce",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
-        { "l": "Small Combo", "v": "€12.00" },
-        { "l": "Large Combo", "v": "€13.50" }
+        { "l": "Small Combo", "v": "€13.50" },
+        { "l": "Large Combo", "v": "€15.00" }
       ]
     },
     {
       "title": "Veggie",
-      "image": "",
+      "image": "./public/images/veggie.jpg",
       "desc": "Tortilla, vegan kebab, salad, red onion, tomato, pickled cucumber, oregano, vegan mayo",
       "prices": [
         { "l": "Small", "v": "€8.00" },
         { "l": "Large", "v": "€9.50" },
-        { "l": "Small Combo", "v": "€12.50" },
-        { "l": "Large Combo", "v": "€14.00" }
+        { "l": "Small Combo", "v": "€14.00" },
+        { "l": "Large Combo", "v": "€15.50" }
       ]
     },
     {
@@ -180,18 +180,18 @@
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401368-a50ecd0b-ead7-437a-b89e-a1a53e2c5ff1_600_600.webp",
       "desc": "Tortilla, chicken fillet, iceberg lettuce, tomato, cucumber + choice of spiciness",
       "price": "€7.50",
-      "combo": "COMBO €12.00"
-    },
-    {
-      "title": "Wrap (Regular/ Spicy)",
-      "image": "",
-      "desc": "Tortilla, chicken fillet, feta, salad, tomato, red onion, garlic sauce",
-      "price": "€9.00",
       "combo": "COMBO €13.50"
     },
     {
-      "title": "Kebab Plate",
+      "title": "Wrap (Regular / Spicy)",
       "image": "",
+      "desc": "Tortilla, chicken fillet, feta, salad, tomato, red onion, garlic sauce",
+      "price": "€9.00",
+      "combo": "COMBO €12.50"
+    },
+    {
+      "title": "Kebab Plate",
+      "image": "./public/images/kebabi_praad.jpg",
       "desc": "Chicken kebab, fries, salad, oregano, sauce of your choice",
       "price": "€12.00"
     }
@@ -223,7 +223,7 @@
       "price": "€1.50"
     },
     {
-      "title": "Chipotle",
+      "title": "Chipotle Mayo",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401379-946a4e23-d90f-4241-b4ac-f8c7300ae4bf_600_600.webp",
       "price": "€1.50"
     }
@@ -251,7 +251,7 @@
     },
     {
       "title": "Red Bull White 0.25l",
-      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479437723-435d01b0-7b38-4eee-a469-6391d40d90b8_600_600.webp",
+      "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479410066-74de922c-f820-4017-a1d9-9113f7219cdd_600_600.webp",
       "price": "€3.00"
     },
     {
@@ -306,49 +306,37 @@
     {
       "title": "Fuze Tea Lemon",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406154-0386c1a5-7605-4734-a6bc-ded27690aa1d_600_600.webp",
-      "prices": [
-        { "l": "0.33l", "v": "€2.50" },
-        { "l": "0.5l", "v": "€3.00" }
-      ]
+      "price": "€3.00"
     },
     {
       "title": "Fuze Tea Peach",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406155-f23c0d79-c221-468b-ad7e-c788da2c5e44_600_600.webp",
-      "prices": [
-        { "l": "0.33l", "v": "€2.50" },
-        { "l": "0.5l", "v": "€3.00" }
-      ]
+      "price": "€3.00"
     },
     {
       "title": "Sparkling Water 0.5l",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406152-87cf4964-6a4f-4916-9ea2-a5f14f73ba07_600_600.webp",
-      "prices": [
-        { "l": "0.33l", "v": "€2.50" },
-        { "l": "0.5l", "v": "€3.00" }
-      ]
+      "price": "€3.00"
     },
     {
       "title": "Still Water 0.5l",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406153-1aff94a7-1291-4ee3-aa85-ea849b342afc_600_600.webp",
-      "prices": [
-        { "l": "0.33l", "v": "€2.50" },
-        { "l": "0.5l", "v": "€3.00" }
-      ]
+      "price": "€3.00"
     }
   ],
   "Juices": [
     {
-      "title": "Cappy Multivitamin 0.33l",
+      "title": "Multivitamin juice 0.33l",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406223-acbffd94-e38f-4b14-8839-c0210ad5bcb8_600_600.webp",
       "price": "€2.50"
     },
     {
-      "title": "Cappy Apple 0.33l",
+      "title": "Apple juice 0.33l",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406213-45f1150e-d763-4d40-9790-379c1260b051_600_600.webp",
       "price": "€2.50"
     },
     {
-      "title": "Cappy Orange 0.33l",
+      "title": "Orange juice 0.33l",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479406218-712f0d61-ee94-49e9-871e-b862cfd48865_600_600.webp",
       "price": "€2.50"
     }
@@ -358,8 +346,8 @@
       "title": "Tea: Samurai, Earl Grey, Green, Fruit",
       "image": "./public/images/tea.jpg",
       "prices": [
-        { "l": "0.33l", "v": "€2.50" },
-        { "l": "0.5l", "v": "€3.00" }
+        { "l": "Small teapot for 2", "v": "€2.50" },
+        { "l": "Large teapot for 4", "v": "€3.00" }
       ]
     },
     {
