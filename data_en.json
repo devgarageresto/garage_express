@@ -121,7 +121,7 @@
   ],
   "Kebab": [
     {
-      "title": "Shaurma",
+      "title": "Shwarma",
       "image": "./public/images/shaurma.jpg",
       "desc": "Tortilla, chicken kebab, fries, pickled cucumber, red onion, oregano, garlic sauce",
       "prices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "title": "Shaurma BBQ",
+      "title": "Shwarma BBQ",
       "image": "./public/images/shaurma_bbq.jpg",
       "desc": "Tortilla, chicken kebab, fries, pickled cucumber, red onion, oregano, garlic sauce, BBQ sauce",
       "prices": [
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "title": "Döner",
+      "title": "Doner",
       "image": "./public/images/doner.jpg",
       "desc": "Tortilla, chicken kebab, salad, red onion, tomato, pickled cucumber, oregano, garlic sauce",
       "prices": [
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "title": "Dösha",
+      "title": "Dosha",
       "image": "./public/images/dosha.jpg",
       "desc": "Tortilla, chicken kebab, fries, salad, red onion, oregano, garlic sauce",
       "prices": [
