@@ -66,14 +66,14 @@
     {
       "title": "Retro Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401366-71396186-5c36-4ce6-9c50-771303565d7c_600_600.webp",
-      "desc": "Brioche bun, 100% Beef patty, Retro sauce, Cheddar and Mozzarella cheese, Pickled cucumber, Special sauce",
+      "desc": "Brioche bun, 100% Beef patty, Retro salat, Cheddar and Mozzarella cheese, Pickled cucumber, Special sauce",
       "price": "€8.50",
       "combo": "COMBO €13.00"
     },
     {
       "title": "Chicken Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401364-5e418fc8-d71a-47bd-b718-bf9386912489_600_600.webp",
-      "desc": "Brioche bun, Crispy chicken patty, Iceberg lettuce, Pickled cucumbers and red onion, Tomatoes, Chili mayo",
+      "desc": "Brioche bun, Crispy chicken patty, Frillice, Pickled cucumbers and red onion, Tomatoes, Chili mayo",
       "price": "€9.00",
       "combo": "COMBO €13.50"
     },
@@ -346,8 +346,8 @@
       "title": "Tea: Samurai, Earl Grey, Green, Fruit",
       "image": "./public/images/tea.jpg",
       "prices": [
-        { "l": "Small teapot for 2", "v": "€2.50" },
-        { "l": "Large teapot for 4", "v": "€3.00" }
+        { "l": "Small teapot for 2", "v": "€4.00" },
+        { "l": "Large teapot for 4", "v": "€6.00" }
       ]
     },
     {
