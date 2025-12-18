@@ -59,42 +59,42 @@
     {
       "title": "Cheeseburger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401363-206a000b-2de2-428f-9055-fdb57f4193d9_600_600.webp",
-      "desc": "Brioche bun, 100% beef patty, pickled cucumbers, Cheddar and Mozzarella cheese, ketchup",
+      "desc": "Brioche bun, 100% Beef patty, Pickled Cucumbers, Cheddar and Mozzarella cheese, Ketchup",
       "price": "€8.00",
       "combo": "COMBO €12.50"
     },
     {
       "title": "Retro Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401366-71396186-5c36-4ce6-9c50-771303565d7c_600_600.webp",
-      "desc": "Brioche bun, 100% beef patty, Retro sauce, Cheddar and Mozzarella cheese, pickled cucumber",
+      "desc": "Brioche bun, 100% Beef patty, Retro sauce, Cheddar and Mozzarella cheese, Pickled cucumber, Special sauce",
       "price": "€8.50",
       "combo": "COMBO €13.00"
     },
     {
       "title": "Chicken Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401364-5e418fc8-d71a-47bd-b718-bf9386912489_600_600.webp",
-      "desc": "Brioche bun, crispy chicken patty, iceberg lettuce, pickled cucumbers and red onion, tomatoes",
+      "desc": "Brioche bun, Crispy chicken patty, Iceberg lettuce, Pickled cucumbers and red onion, Tomatoes, Chili mayo",
       "price": "€9.00",
       "combo": "COMBO €13.50"
     },
     {
       "title": "Garage Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401362-582fdccd-a167-4952-b90e-66137797f215_600_600.webp",
-      "desc": "Brioche bun, 100% beef patty, bacon, Cheddar and Mozzarella cheese, pickled cucumber and red onion, tomatoes, iceberg lettuce",
+      "desc": "Brioche bun, 100% Beef patty, Bacon, Cheddar and Mozzarella cheese, Pickled cucumber and red onion, Tomatoes, Iceberg lettuce, Special sauce",
       "price": "€10.00",
       "combo": "COMBO €14.50"
     },
     {
       "title": "4 Cheese Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401365-b8320e35-b051-49f7-877d-0088d4106ba3_600_600.webp",
-      "desc": "Brioche bun, 100% beef patty, iceberg lettuce, pickled cucumber and red onion, Cheddar, Mozzarella, blue cheese, feta, tomato",
+      "desc": "Brioche bun, 100% Beef patty, Iceberg lettuce, Pickled cucumber and red onion, Cheddar, Mozzarella, Blue cheese, Feta, Tomato, Chili mayo",
       "price": "€10.50",
       "combo": "COMBO €15.00"
     },
     {
       "title": "Double Garage Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401367-4b4bcf5e-49e0-460c-90fc-6ac5460db414_600_600.webp",
-      "desc": "Brioche bun, 2x 100% beef patties, bacon, Cheddar and Mozzarella cheese, pickled cucumber and red onion, tomatoes, iceberg lettuce",
+      "desc": "Brioche bun, 2x 100% Beef patties, Bacon, Cheddar and Mozzarella cheese, Pickled cucumber and red onion, Tomatoes, Iceberg lettuce, Chili mayo",
       "price": "€12.50",
       "combo": "COMBO €17.00"
     }
@@ -103,19 +103,19 @@
     {
       "title": "Poke Bowl with Chicken",
       "image": "./public/images/pb_kana.jpg",
-      "desc": "Chicken, rice, carrot, cucumber, ginger, edamame, cabbage, corn, seaweed, mango, sauce, sesame",
+      "desc": "Chicken, Rice, Carrot, Cucumber, Ginger, Edamame, Cabbage, Corn, Seaweed, Mango, Sauce, Sesame",
       "price": "€10.90"
     },
     {
       "title": "Poke Bowl with Salmon",
       "image": "./public/images/pb_lohe.jpg",
-      "desc": "Salmon, rice, carrot, cucumber, ginger, edamame, cabbage, corn, seaweed, mango, sauce, sesame",
+      "desc": "Salmon, Rice, Carrot, Cucumber, Ginger, Edamame, Cabbage, Corn, Seaweed, Mango, Sauce, Sesame",
       "price": "€11.90"
     },
     {
       "title": "Poke Bowl with Shrimp",
       "image": "./public/images/pb_krevett.jpg",
-      "desc": "Shrimp, rice, carrot, cucumber, ginger, edamame, cabbage, corn, seaweed, mango, sauce, sesame",
+      "desc": "Shrimp, Rice, Carrot, Cucumber, Ginger, Edamame, Cabbage, Corn, Seaweed, Mango, Sauce, Sesame",
       "price": "€12.90"
     }
   ],
@@ -123,7 +123,7 @@
     {
       "title": "Shwarma",
       "image": "./public/images/shaurma.jpg",
-      "desc": "Tortilla, chicken kebab, fries, pickled cucumber, red onion, oregano, garlic sauce",
+      "desc": "Tortilla, Chicken kebab, Fries, Pickled cucumber, Red onion, Oregano, Garlic sauce",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
@@ -134,7 +134,7 @@
     {
       "title": "Shwarma BBQ",
       "image": "./public/images/shaurma_bbq.jpg",
-      "desc": "Tortilla, chicken kebab, fries, pickled cucumber, red onion, oregano, garlic sauce, BBQ sauce",
+      "desc": "Tortilla, Chicken kebab, Fries, Pickled cucumber, Red onion, Oregano, Garlic sauce, Bbq sauce",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
@@ -145,7 +145,7 @@
     {
       "title": "Doner",
       "image": "./public/images/doner.jpg",
-      "desc": "Tortilla, chicken kebab, salad, red onion, tomato, pickled cucumber, oregano, garlic sauce",
+      "desc": "Tortilla, Chicken kebab, Salad (Chinese cabbage, red onion, tomato, pickled cucumber, carrot, dried dill), Oregano, Garlic sauce",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
@@ -156,7 +156,7 @@
     {
       "title": "Dosha",
       "image": "./public/images/dosha.jpg",
-      "desc": "Tortilla, chicken kebab, fries, salad, red onion, oregano, garlic sauce",
+      "desc": "Tortilla, Chicken kebab, French fries, Pickled cucumber, Red onion, Chinese cabbage, Garlic sauce, Oregano",
       "prices": [
         { "l": "Small", "v": "€7.50" },
         { "l": "Large", "v": "€9.00" },
@@ -167,7 +167,7 @@
     {
       "title": "Veggie",
       "image": "./public/images/veggie.jpg",
-      "desc": "Tortilla, vegan kebab, salad, red onion, tomato, pickled cucumber, oregano, vegan mayo",
+      "desc": "Tortilla, Vegan kebab, Salad (Chinese cabbage, red onion, tomato, pickled cucumber, carrot, dried dill), Oregano, Vegan mayo",
       "prices": [
         { "l": "Small", "v": "€8.00" },
         { "l": "Large", "v": "€9.50" },
@@ -178,21 +178,21 @@
     {
       "title": "Wrap",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401368-a50ecd0b-ead7-437a-b89e-a1a53e2c5ff1_600_600.webp",
-      "desc": "Tortilla, chicken fillet, iceberg lettuce, tomato, cucumber + choice of spiciness",
+      "desc": "Tortilla, Chicken fillet, Feta cheese, Chinese cabbage, Tomato, Red onion, Pickled cucumber, Garlic sauce, Oregano",
       "price": "€7.50",
       "combo": "COMBO €13.50"
     },
     {
       "title": "Wrap (Regular / Spicy)",
       "image": "",
-      "desc": "Tortilla, chicken fillet, feta, salad, tomato, red onion, garlic sauce",
+      "desc": "TTortilla, Chicken fillet, Iceberg lettuce, Tomato, Cucumber, Feta cheese",
       "price": "€9.00",
       "combo": "COMBO €12.50"
     },
     {
       "title": "Kebab Plate",
       "image": "./public/images/kebabi_praad.jpg",
-      "desc": "Chicken kebab, fries, salad, oregano, sauce of your choice",
+      "desc": "Chicken kebab, French fries, Salad, Oregano, and sauce of your choice",
       "price": "€12.00"
     }
   ],

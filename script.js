@@ -46,7 +46,7 @@ function render(data) {
                         ${item.prices.map(p => `
                             <div class="price-line">
                                 <span>${p.l}</span>
-                                <span>${p.v}</span>
+                                <span class="item-price">${p.v}</span>
                             </div>
                         `).join('')}
                     </div>` : ''}
