@@ -66,14 +66,14 @@
     {
       "title": "Retro Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401366-71396186-5c36-4ce6-9c50-771303565d7c_600_600.webp",
-      "desc": "Brioche bun, 100% Beef patty, Retro salat, Cheddar and Mozzarella cheese, Pickled cucumber, Special sauce",
+      "desc": "Brioche bun, 100% Beef patty, Retro salad, Cheddar and Mozzarella cheese, Pickled cucumber, Special sauce",
       "price": "€8.50",
       "combo": "COMBO €13.00"
     },
     {
       "title": "Chicken Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401364-5e418fc8-d71a-47bd-b718-bf9386912489_600_600.webp",
-      "desc": "Brioche bun, Crispy chicken patty, Frillice, Pickled cucumbers and red onion, Tomatoes, Chili mayo",
+      "desc": "Brioche bun, Crispy chicken patty, Frillice, Pickled cucumbers and red onion, Cheddar cheese, Tomatoes, Chili mayo",
       "price": "€9.00",
       "combo": "COMBO €13.50"
     },
@@ -94,26 +94,26 @@
     {
       "title": "Double Garage Burger",
       "image": "https://zbs.prod.admin.zbs.ee/storage/product/image/webp/9479401367-4b4bcf5e-49e0-460c-90fc-6ac5460db414_600_600.webp",
-      "desc": "Brioche bun, 2x 100% Beef patties, Bacon, Cheddar and Mozzarella cheese, Pickled cucumber and red onion, Tomatoes, Iceberg lettuce, Chili mayo",
+      "desc": "Brioche bun, 2x 100% Beef patties, Bacon, Cheddar and Mozzarella cheese, Pickled cucumber and red onion, Tomatoes, Iceberg lettuce, Special Sauce",
       "price": "€12.50",
       "combo": "COMBO €17.00"
     }
   ],
   "Poke Bowl": [
     {
-      "title": "Poke Bowl with Chicken",
+      "title": "Chicken",
       "image": "./public/images/pb_kana.jpg",
       "desc": "Chicken, Rice, Carrot, Cucumber, Ginger, Edamame, Cabbage, Corn, Seaweed, Mango, Sauce, Sesame",
       "price": "€10.90"
     },
     {
-      "title": "Poke Bowl with Salmon",
+      "title": "Salmon",
       "image": "./public/images/pb_lohe.jpg",
       "desc": "Salmon, Rice, Carrot, Cucumber, Ginger, Edamame, Cabbage, Corn, Seaweed, Mango, Sauce, Sesame",
       "price": "€11.90"
     },
     {
-      "title": "Poke Bowl with Shrimp",
+      "title": "Shrimp",
       "image": "./public/images/pb_krevett.jpg",
       "desc": "Shrimp, Rice, Carrot, Cucumber, Ginger, Edamame, Cabbage, Corn, Seaweed, Mango, Sauce, Sesame",
       "price": "€12.90"
@@ -121,7 +121,7 @@
   ],
   "Kebab": [
     {
-      "title": "Shwarma",
+      "title": "Shawarma",
       "image": "./public/images/shaurma.jpg",
       "desc": "Tortilla, Chicken kebab, Fries, Pickled cucumber, Red onion, Oregano, Garlic sauce",
       "prices": [
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "title": "Shwarma BBQ",
+      "title": "Shawarma BBQ",
       "image": "./public/images/shaurma_bbq.jpg",
       "desc": "Tortilla, Chicken kebab, Fries, Pickled cucumber, Red onion, Oregano, Garlic sauce, Bbq sauce",
       "prices": [
